@@ -7,6 +7,7 @@
 With [Quelpa](https://framagit.org/steckerhalter/quelpa)
 
 ``` {.sourceCode .lisp}
+;; Ensure `dired` has been loaded
 (use-package dired-smart-jump
   :quelpa (dired-smart-jump
            :fetcher github
