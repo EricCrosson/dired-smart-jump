@@ -1,6 +1,6 @@
 # dired-smart-jump [![Build Status](https://travis-ci.org/EricCrosson/dired-smart-jump.svg?branch=master)](https://travis-ci.org/EricCrosson/dired-smart-jump)
 
-> DWIM movement-commands for GNU Emacs dired buffers
+> DWIM movement-commands for dired buffers in GNU Emacs
 
 ## Install
 
