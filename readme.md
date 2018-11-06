@@ -23,9 +23,13 @@ Or manually, after downloading into your `load-path`
 ## Use
 
 This package remaps the `beginning-of-buffer` and `end-of-buffer`
-keybindings in `dired-mode-map` to commands that place point at the
+keybindings in `dired-mode-map` to functions that place point at the
 first file in the buffer and the last file in the buffer,
 respectively.
+
+## Example
+
+![Example](https://raw.githubusercontent.com/EricCrosson/dired-smart-jump/master/img/demo.gif)
 
 ## License
 
