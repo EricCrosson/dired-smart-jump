@@ -1,4 +1,4 @@
-# dired-smart-jump [![Build Status](https://travis-ci.org/EricCrosson/dired-smart-jump.svg?branch=master)](https://travis-ci.org/EricCrosson/dired-smart-jump)
+# dired-smart-jump [![Build Status](https://travis-ci.org/EricCrosson/dired-smart-jump.svg?branch=master)](https://travis-ci.org/EricCrosson/dired-smart-jump) [![Version](https://img.shields.io/github/tag/EricCrosson/dired-smart-jump.svg)](https://github.com/EricCrosson/dired-smart-jump/releases)
 
 > DWIM movement-commands for dired buffers in GNU Emacs
 
