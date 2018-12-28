@@ -31,6 +31,10 @@ respectively.
 
 ![Example](https://raw.githubusercontent.com/EricCrosson/dired-smart-jump/master/img/demo.gif)
 
+## Related
+
+- [beginend](https://github.com/DamienCassou/beginend)
+
 ## License
 
 GPL 2 (or higher) © [Free Software Foundation, Inc](http://www.fsf.org/about).
